@@ -21,4 +21,4 @@ Fue creada para completar los cursos de HTML5 y CSS3 de Alura apoyado por Oracle
 
 Demo en vivo:
 
-    Entre en este link: https://mrdarthhub.github.io/barberia_alura.github.io/
+- Entre en este link: https://mrdarthhub.github.io/barberia_alura.github.io/
